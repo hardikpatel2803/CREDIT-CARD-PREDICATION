@@ -54,9 +54,4 @@ Technologies Used
 
 
 
-Team
-Larissa Pereira: https://github.com/Larissavvy
-
-Credits
-The datasets has been provided by Kaggle. The original dataset can be found here at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
-
+T
